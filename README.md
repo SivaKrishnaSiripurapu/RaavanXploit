@@ -36,7 +36,8 @@ chmod +x raavanxploit.sh
 
 ## 📸 Preview
 
-![Terminal Preview](https://i.imgur.com/kcZAT5b.png)
+![RaavanXploit-Banner](https://github.com/user-attachments/assets/7308af99-a522-41ad-8503-cfbc06ba6f2c)
+
 
 ## 🔐 Disclaimer
 
