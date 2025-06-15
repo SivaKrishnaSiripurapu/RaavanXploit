@@ -1,6 +1,7 @@
 # ⚔️ RaavanXploit
 
-![RaavanXploit-Banner](https://github.com/user-attachments/assets/47d1edf2-e252-4e93-ae9a-ab896fc758fb)
+![Discover and download free images Cyber Shadows_ The Enigmatic #Hacker https___aifusionart_com_cyber-shadows-the-enigmatic-hacker-4__utm_source=facebook utm_medium=social utm_campaign=ReviveOldPost](https://github.com/user-attachments/assets/f2cbeb5e-3535-4d5f-86ef-06c038242b15)
+
 
 
 > 🔥 A powerful all-in-one hacking toolkit with automation, information gathering, phishing, dorks, exploitation tools, and more — built for Kali Linux & Debian-based systems.
